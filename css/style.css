@@ -99,6 +99,11 @@ a:focus {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
+.main-logo{
+  position: relative;
+  top: 100px;
+  width: 50vw;
+}
 
 .logo{
   width: 6vw;
@@ -114,7 +119,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/HomePAGE.jpg);
+  background-image: url(../images/img/blur-coffee-cafe-shop-restaurant-with-bokeh-background-xd.jpg);
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -802,3 +807,8 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+.box-img-1{
+  border-radius: 100%;
+}
+
