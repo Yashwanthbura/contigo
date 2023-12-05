@@ -101,8 +101,8 @@ a:focus {
 }
 .main-logo{
   position: relative;
-  top: 100px;
-  width: 50vw;
+  bottom: 50px;
+  width: 48vw;
 }
 
 .logo{
@@ -364,7 +364,7 @@ a:focus {
 }
 
 .slider_section .slider_container {
-  margin-top: 150px;
+  margin-top: 100px;
   position: absolute;
   z-index: 2;
   bottom: 0;
